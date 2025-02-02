@@ -20,7 +20,22 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/Ankitsm04/Arc-Tech-Labs-Task-1
+```
+### 2.Go to App Directory
+use following command
+```bash
 cd react-mui-app
+```
+
+### 3.Install Dependencies (node_modules)
+use command below
+```bash
 npm install
+```
+
+# 4.Finally Run the Project
+use following command
+```bash
 npm run dev
+```
 
